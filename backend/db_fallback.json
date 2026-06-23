@@ -2,441 +2,6 @@
   "devices": [],
   "scans": [
     {
-      "timestamp": "2026-06-05T05:47:15.951Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 83,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 75,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:18.310Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 83,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 60,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:20.649Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 74,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 70,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:23.126Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 74,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 75,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:25.389Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 74,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 75,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:27.824Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 74,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 90,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:30.162Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 90,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 45,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:32.594Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 90,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 85,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:34.973Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 90,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 80,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:37.224Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 90,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 80,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:39.506Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 90,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 75,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:41.765Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 90,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 70,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:44.000Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 90,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 70,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:46.315Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 90,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 75,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-05T05:47:48.591Z",
-      "deviceCount": 2,
-      "nearbyCount": 1,
-      "signalStrength": 90,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 95,
-          "band": "5 GHz",
-          "channel": 161
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-05T05:47:50.822Z",
       "deviceCount": 2,
       "nearbyCount": 1,
@@ -16857,6 +16422,981 @@
           "signal": 14,
           "band": "2.4 GHz",
           "channel": 1
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:09.661Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 34,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 5
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:12.500Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 34,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 5
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:15.140Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 34,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 40,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 5
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:17.773Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 34,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 5
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:20.998Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 34,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 5
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:24.570Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 34,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 25,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 5
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:28.316Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 34,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 35,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 5
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:33.195Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 34,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d3",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 50,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 5
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:37.538Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 50,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 50,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 5
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:46.040Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 36,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:48.952Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 36,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 55,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:51.690Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 36,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 20,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:54.410Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 36,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 35,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:57.204Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 36,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 40,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-23T06:35:59.811Z",
+      "deviceCount": 2,
+      "nearbyCount": 6,
+      "signalStrength": 36,
+      "ssid": "Connect_zone_5G",
+      "devices": [
+        {
+          "ip": "192.168.0.1",
+          "mac": "3c:6a:d2:d1:01:d4",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.0.182",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 45,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance AP",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 11
+        },
+        {
+          "ssid": "Student Alliance AP Conference",
+          "auth": "WPA2-Personal",
+          "signal": 14,
+          "band": "2.4 GHz",
+          "channel": 1
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 5,
+          "band": "2.4 GHz",
+          "channel": 5
         }
       ]
     }
