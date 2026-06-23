@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://127.0.0.1:5055',
+        target: 'https://wifi-counter.onrender.com',
         changeOrigin: true,
         secure: false
       }
