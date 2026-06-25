@@ -41,7 +41,7 @@ function writeFallback(data) {
 }
 
 async function connectDB() {
-  const uri = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/wifi-count';
+  const uri = process.env.MONGODB_URI;
   try {
     console.log(`Connecting to MongoDB at: ${uri}...`);
     // Connect with a 3-second timeout so it fails quickly if MongoDB isn't running
@@ -75,7 +75,7 @@ const db = {
         console.error('MongoDB read error, switching to fallback:', err);
       }
     }
-    
+
     // Fallback
     const local = readFallback();
     const map = {};
@@ -208,7 +208,7 @@ const db = {
     const local = readFallback();
     local.scans = local.scans || [];
     local.scans.push(finalScan);
-    
+
     // Cap historical scans to 150 entries in local JSON file to keep it fast
     if (local.scans.length > 150) {
       local.scans.shift();
