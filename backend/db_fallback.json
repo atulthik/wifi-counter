@@ -2,125 +2,6 @@
   "devices": [],
   "scans": [
     {
-      "timestamp": "2026-06-05T05:51:24.383Z",
-      "deviceCount": 2,
-      "nearbyCount": 16,
-      "signalStrength": 85,
-      "ssid": "Student Alliance_5G",
-      "devices": [
-        {
-          "ip": "192.168.1.1",
-          "mac": "dc:62:79:a7:2a:eb",
-          "type": "gateway",
-          "nickname": ""
-        },
-        {
-          "ip": "192.168.1.184",
-          "mac": "4c:23:38:05:19:a5",
-          "type": "host",
-          "nickname": ""
-        }
-      ],
-      "nearby": [
-        {
-          "ssid": "Student Alliance_5G",
-          "signal": 40,
-          "band": "5 GHz",
-          "channel": 161
-        },
-        {
-          "ssid": "[Hidden SSID]",
-          "signal": 100,
-          "band": "2.4 GHz",
-          "channel": 10
-        },
-        {
-          "ssid": "Connect_zone",
-          "signal": 14,
-          "band": "2.4 GHz",
-          "channel": 10
-        },
-        {
-          "ssid": "Student Alliance 4G",
-          "signal": 100,
-          "band": "2.4 GHz",
-          "channel": "0 (0 %)"
-        },
-        {
-          "ssid": "Student Allince Server_4G",
-          "signal": 100,
-          "band": "2.4 GHz",
-          "channel": "0 (0 %)"
-        },
-        {
-          "ssid": "Conference 3_4G",
-          "signal": 95,
-          "band": "2.4 GHz",
-          "channel": 10
-        },
-        {
-          "ssid": "Workspace 4",
-          "signal": 100,
-          "band": "2.4 GHz",
-          "channel": 10
-        },
-        {
-          "ssid": "Workspace 2_4G",
-          "signal": 100,
-          "band": "2.4 GHz",
-          "channel": 10
-        },
-        {
-          "ssid": "Conference 2_4G",
-          "signal": 100,
-          "band": "2.4 GHz",
-          "channel": 10
-        },
-        {
-          "ssid": "S.A.E. 4G",
-          "signal": 100,
-          "band": "2.4 GHz",
-          "channel": 2
-        },
-        {
-          "ssid": "Conference 2_5G",
-          "signal": 100,
-          "band": "5 GHz",
-          "channel": 149
-        },
-        {
-          "ssid": "Workspace 2_5G",
-          "signal": 100,
-          "band": "5 GHz",
-          "channel": 149
-        },
-        {
-          "ssid": "S.A.E 5G",
-          "signal": 100,
-          "band": "5 GHz",
-          "channel": 39
-        },
-        {
-          "ssid": "Conference 3_5G",
-          "signal": 100,
-          "band": "5 GHz",
-          "channel": 149
-        },
-        {
-          "ssid": "Student Alliance Server_5G",
-          "signal": 100,
-          "band": "5 GHz",
-          "channel": 153
-        },
-        {
-          "ssid": "Workspace 4",
-          "signal": 100,
-          "band": "5 GHz",
-          "channel": 149
-        }
-      ]
-    },
-    {
       "timestamp": "2026-06-05T05:51:26.656Z",
       "deviceCount": 2,
       "nearbyCount": 16,
@@ -15645,6 +15526,148 @@
           "signal": 8,
           "band": "5 GHz",
           "channel": 40
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-06-25T05:27:02.514Z",
+      "deviceCount": 2,
+      "nearbyCount": 17,
+      "signalStrength": 84,
+      "ssid": "Student Alliance_5G",
+      "devices": [
+        {
+          "ip": "192.168.1.1",
+          "mac": "dc:62:79:a7:2a:eb",
+          "type": "gateway",
+          "nickname": ""
+        },
+        {
+          "ip": "192.168.1.117",
+          "mac": "4c:23:38:05:19:a5",
+          "type": "host",
+          "nickname": ""
+        }
+      ],
+      "nearby": [
+        {
+          "ssid": "Student Alliance_5G",
+          "auth": "WPA2-Personal",
+          "signal": 85,
+          "band": "5 GHz",
+          "channel": 153
+        },
+        {
+          "ssid": "Connect_zone_5G",
+          "auth": "WPA2-Personal",
+          "signal": 10,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "Connect_zone",
+          "auth": "WPA2-Personal",
+          "signal": 35,
+          "band": "2.4 GHz",
+          "channel": 5
+        },
+        {
+          "ssid": "Conference 2_4G",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Workspace 4",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "[Hidden SSID]",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Conference 3_4G",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Workspace 2_4G",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 10
+        },
+        {
+          "ssid": "Student Alliance 4G",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 8
+        },
+        {
+          "ssid": "Student Allince Server_4G",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 4
+        },
+        {
+          "ssid": "S.A.E. 4G",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "2.4 GHz",
+          "channel": 3
+        },
+        {
+          "ssid": "Student Alliance Server_5G",
+          "auth": "WPA2-Personal",
+          "signal": 95,
+          "band": "5 GHz",
+          "channel": 161
+        },
+        {
+          "ssid": "Conference 2_5G",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "Workspace 4",
+          "auth": "Open",
+          "signal": 100,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "S.A.E 5G",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "Workspace 2_5G",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "5 GHz",
+          "channel": 149
+        },
+        {
+          "ssid": "Conference 3_5G",
+          "auth": "WPA2-Personal",
+          "signal": 100,
+          "band": "5 GHz",
+          "channel": 149
         }
       ]
     }
