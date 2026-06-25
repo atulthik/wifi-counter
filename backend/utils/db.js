@@ -41,7 +41,7 @@ function writeFallback(data) {
 }
 
 async function connectDB() {
-  const uri = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/wifi-count';
+  const uri = process.env.MONGODB_URI;
   try {
     console.log(`Connecting to MongoDB at: ${uri}...`);
     // Connect with a 3-second timeout so it fails quickly if MongoDB isn't running
